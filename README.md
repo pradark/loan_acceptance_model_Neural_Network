@@ -2,7 +2,7 @@
 
 ### Objective: 
 
-Develop a simple neural network model using Keras library and predict the likelihood of approval of bank loan.
+Develop a simple neural network model using Keras library and predict the likelihood of customer accepting the loan that was offered to them by the bank.
 
 ### Data:
 The dataset UniversalBank.csv below contains data on 5000 customers. The data include customer demographic information (age, income, etc.), 
