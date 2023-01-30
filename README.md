@@ -12,15 +12,15 @@ Among these 5000 customers, only 480 (= 9.6%) accepted the personal loan that wa
 
 It has the following fields:
 
-Age: Customer’s age in completed years
-Experience: Number of years of professional experience
-Income: Annual income of the customer ($)
-Family: Size Family size of the customer
-CCAvg: Average spending on credit cards per month ($)
-Education Education Level: 1: Undergrad; 2: Graduate; 3: Advanced/Professional
-Mortgage: Value of house mortgage if any ($)
-Securities Account: Coded as 1 if customer has securities account with bank
-CD Account: Coded as 1 if customer has certificate of deposit (CD) account with bank
-Online Banking: Coded as 1 if customer uses Internet banking facilities
-Credit Card: Coded as 1 if customer uses credit card issued by Universal Bank
+Age: Customer’s age in completed years\
+Experience: Number of years of professional experience\
+Income: Annual income of the customer ($)\
+Family: Size Family size of the customer\
+CCAvg: Average spending on credit cards per month ($)\
+Education Education Level: 1: Undergrad; 2: Graduate; 3: Advanced/Professional\
+Mortgage: Value of house mortgage if any ($)\
+Securities Account: Coded as 1 if customer has securities account with bank\
+CD Account: Coded as 1 if customer has certificate of deposit (CD) account with bank\
+Online Banking: Coded as 1 if customer uses Internet banking facilities\
+Credit Card: Coded as 1 if customer uses credit card issued by Universal Bank\
 Personal Loan: 1 if the customer accepted the loan offered else 0 (target variable)
