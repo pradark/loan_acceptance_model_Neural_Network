@@ -1,5 +1,3 @@
-# loan_approval
-
 ### Objective: 
 
 Develop a simple neural network model using Keras library and predict the likelihood of customer accepting the loan that was offered to them by the bank.
